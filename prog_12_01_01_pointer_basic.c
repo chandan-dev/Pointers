@@ -13,3 +13,4 @@ int main(int arg1, char *arg2[])
 	return 0;
 	
 }
+//Program of a pointer.
